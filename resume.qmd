@@ -1,12 +1,11 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Mariana Santolaja's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Mariana Santolaja
+Hi, I'm Mariana and it's nice to meet you!  I'm currently a student persuing a major in Business Analytics and a minor in Marketing. I'm passionated about data, I believe in Doctor's W. Edwards Deming saying “In God we trust. All others must bring data.” Data driven decisions are 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
@@ -27,19 +26,8 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`April 2024 - Currently`
+__Business Analytics, Brigham Young University - Idaho__
 
 
 ## Awards
@@ -86,4 +74,4 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2025 -->
