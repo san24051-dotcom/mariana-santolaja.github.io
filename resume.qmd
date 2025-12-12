@@ -6,22 +6,46 @@ title: Mariana Santolaja's CV
 Hi, I'm Mariana and it's nice to meet you!  I'm currently a student persuing a major in Business Analytics and a minor in Marketing. I'm passionated about data, I believe in Doctor's W. Edwards Deming saying “In God we trust. All others must bring data.” Data driven decisions are 
 
 <div id="webaddress">
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://www.linkedin.com/in/mariana-santolaja-62986714a/">My LinkedIn profile</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Completing B.A. in Business Analysis with a Minor in Marketing (Expected Graduation: June/2028) 
+Exploring full-time opportunities in marketing, business analytics, or growth strategy
 
-### Specialized in
+### Past Experiences
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+__Meta — Advertising Representative | 1 year__
 
+Supported advertisers across Meta platforms, optimizing campaigns and improving performance through data-driven insights.
 
-### Research interests
+Managed client communication and provided troubleshooting for ads delivery and account issues.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+__Digital Marketing Agency — Marketing Assistant | 1 year__
+
+Assisted in building and executing multi-platform digital campaigns.
+
+Coordinated content, tracked analytics, and contributed to strategy improvements
+
+__Crowdfunding-Focused Digital Marketing Agency — Client Support Representative | 1 year__
+
+Guided clients through campaign launches, ensuring proper setup, branding, and messaging.
+
+Handled customer service, answered inquiries, and maintained strong client relationships.
+
+__Chief Detective (Growth Hacking Agency) — Growth Analyst | 1.5 years__
+
+ Executed growth strategies, A/B tests, and funnel optimizations to increase user acquisition.
+
+ Analyzed campaign data, identified opportunities, and implemented rapid-iteration solutions.
+
+ Collaborated closely with marketing, product, and creative teams.
+
+### Interests
+
+Data analytics, performance optimization, media analysis,Python side-projects and my “Cookies-and-Cream Milk Tracker,”  spreadsheet that works as a campus tool I built to find out which vending machines are more likely to have my favorite milk based on the day of the week.
 
 
 ## Education
@@ -32,43 +56,28 @@ __Business Analytics, Brigham Young University - Idaho__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2025`
+CAPSIM Club 800 — Ranked among the top students globally that achieved a 800 higher score on a Business performance simulator
 
 
 
-## Publications
+## Skills
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Data & Analytics: Excel, Google Analytics, SQL (basic), data visualization, reporting
 
-### Journals
+Marketing: Meta Ads, campaign optimization, A/B testing, SEO basics
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Business: Strategic planning, market research, financial literacy, project coordination
 
-`1669`
-Lectiones opticæ.
+Tools: Google Workspace, CRM tools, Python (intermediate)
 
-etc. etc. etc.
+### Languages
 
-### Patents
+English - Fluent
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Spanish - Fluent
 
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Portuguese - Native
 
 
 
